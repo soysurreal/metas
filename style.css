@@ -1,0 +1,64 @@
+body {background-color: #FFEDBD;
+}
+
+/* Fonts */
+
+.rock-3d-regular {
+  font-family: "Rock 3D", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.reem-kufi-ink-regular {
+  font-family: "Reem Kufi Ink", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.yuji-syuku-regular {
+  font-family: "Yuji Syuku", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.stylish-regular {
+  font-family: "Stylish", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.rubik-scribble-regular {
+  font-family: "Rubik Scribble", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.sunshiney-regular {
+  font-family: "Sunshiney", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+/* Text */
+h1 {
+  font-family: "Rock 3D", system-ui;
+  color: #E86194;
+  text-align: center;
+  margin-top: 50px;
+}
+
+p {
+    font-family: "Yuji Syuku", system-ui;
+    color: #16030B;
+    font-size: 20px;
+    text-align: center;
+}
+  
+
+/* Styling the Main Card Box */
+.pomodoro-card {
+  background-color: #FFE08A; 
+  
+}
